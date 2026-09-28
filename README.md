@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
