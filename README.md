@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Shalu004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Shalu004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
