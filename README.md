@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
+| [0704-binary-search](https://github.com/Shalu004/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Shalu004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shalu004/DSA-LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
