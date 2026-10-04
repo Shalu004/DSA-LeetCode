@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shalu004/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Shalu004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shalu004/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu004/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
