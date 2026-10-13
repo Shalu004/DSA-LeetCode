@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shalu004/DSA-LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shalu004/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shalu004/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shalu004/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalu004/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shalu004/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
