@@ -120,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
