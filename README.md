@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shalu004/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
