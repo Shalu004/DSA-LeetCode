@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shalu004/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shalu004/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shalu004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shalu004/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Shalu004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Shalu004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -185,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shalu004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
