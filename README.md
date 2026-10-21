@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Shalu004/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Shalu004/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Shalu004/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Shalu004/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shalu004/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
