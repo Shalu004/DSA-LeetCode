@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0275-h-index-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shalu004/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shalu004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shalu004/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Shalu004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shalu004/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shalu004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Shalu004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shalu004/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
