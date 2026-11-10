@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shalu004/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shalu004/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shalu004/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shalu004/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shalu004/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shalu004/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
