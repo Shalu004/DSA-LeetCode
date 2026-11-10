@@ -21,12 +21,12 @@ private:
     }
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root==NULL ||subRoot==NULL)
+        if(root==NULL || subRoot==NULL)
                return root==subRoot;
 
-        if(root->val == subRoot->val && isidentical(root, subRoot))
+        if(root->val == subRoot->val && isidentical(root, subRoot))   //if curr node and its subtree is same
                return true;
         
-        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);   //else search on left and right node
     }
 };
