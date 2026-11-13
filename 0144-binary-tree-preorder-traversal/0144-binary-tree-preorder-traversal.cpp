@@ -11,6 +11,23 @@
  */
 class Solution {
 public:
+    void solve(TreeNode* root, vector<int>& ans){    //using recurssion
+        if(!root) return;
+
+        ans.push_back(root->val);
+        solve(root->left, ans);
+        solve(root->right, ans);
+    }
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> ans;
+        solve(root, ans);
+        return ans;
+    }
+};
+
+
+/* using stack
+
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> res;
 
@@ -29,6 +46,6 @@ public:
 
         }
         return res;
-
     }
 };
+*/
