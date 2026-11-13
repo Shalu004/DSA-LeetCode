@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int bs(vector<int>& arr, int tar, int st, int end){
+    int bs(vector<int>& arr, int tar, int st, int end){      //Binary search using recurrsion
         if(st<=end){
             int mid = st + (end-st)/2;
             if(arr[mid]==tar) return mid;
