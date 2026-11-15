@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shalu004/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shalu004/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shalu004/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu004/DSA-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shalu004/DSA-LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Shalu004/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shalu004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu004/DSA-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Shalu004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu004/DSA-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shalu004/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shalu004/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shalu004/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shalu004/DSA-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shalu004/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shalu004/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
